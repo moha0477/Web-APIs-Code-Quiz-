@@ -28,6 +28,6 @@ WHEN the game is over
 THEN I can save my initials and score
 
 ## Application Demo 
-https://github.com/moha0477/Web-APIs-Code-Quiz-/blob/master/assets/images/demo.JPG
+https://github.com/moha0477/Web-APIs-Code-Quiz-/blob/master/assets/images/demo.jpg
 
 
